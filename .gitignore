@@ -10,3 +10,5 @@ http/
 
 dist/
 /postgres
+
+.vercel
