@@ -1,0 +1,7 @@
+
+body {
+  background-color: #ff0;
+  &:hover {
+    background-color: plum;
+  }
+}

@@ -1,0 +1,12 @@
+
+
+
+public/heroes/
+node_modules/
+keys/
+.env
+
+http/
+
+dist/
+/postgres
